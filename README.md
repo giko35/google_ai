@@ -13,10 +13,9 @@ cd <repository-name>
 
 ### 2. Install Dependencies
 
-Install all the required Python packages using the `requirements.txt` file.
-
+Install the required packages using pip:
 ```bash
-pip install -r requirements.txt
+pip install python-dotenv langchain langchain-google-genai google-genai
 ```
 
 ### 3. Set Up Environment Variables
