@@ -1,4 +1,4 @@
-# AI Tips Repository
+# Google Gen-AI Integration
 
 ## Getting Started
 
